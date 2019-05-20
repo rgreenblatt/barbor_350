@@ -19,3 +19,7 @@
 - [ ] Drying rack
 - [ ] Strong, thin metal cable for purposes such as but not limited to zipline
 - [ ] Shoe rack
+
+##Already bought
+
+- Toaster
