@@ -1,22 +1,22 @@
 # shopping
 
-- [ ] Bath mat
-- [ ] Knives
-- [ ] Cutting board(s)
-- [ ] Utensils
-- [ ] Pans/Pots
-  - [ ] Large pan (lid)
-  - [ ] Large pot (lid)
-  - [ ] Some pan
+- [x] Bath mat
+- [x] Knives
+- [x] Cutting board(s)
+- [x] Utensils
+- [x] Pans/Pots
+  - [x] Large pan (lid)
+  - [x] Large pot (lid)
+  - [x] Some pan
 - [ ] Baking sheet
-- [ ] Large bag of rice
-- [ ] Spices
-- [ ] Furnishings?
-- [ ] TV/Monitor?
-- [ ] Oven mitts/holder for hot things
-- [ ] Rags
-- [ ] Cleaning
-- [ ] Drying rack
+- [x] Large bag of rice
+- [x] Spices
+- [x] Furnishings?
+- [x] ~TV/Monitor?~  Projector
+- [x] Oven mitts/holder for hot things
+- [x] Rags
+- [x] Cleaning
+- [x] Drying rack
 - [ ] Strong, thin metal cable for purposes such as but not limited to zipline
 - [ ] Shoe rack
-- [x] Toaster
+- [ ] Toaster
